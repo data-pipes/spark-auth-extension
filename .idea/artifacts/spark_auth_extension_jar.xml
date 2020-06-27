@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spark-auth-extension:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spark_auth_extension_jar</output-path>
+    <root id="archive" name="spark-auth-extension.jar">
+      <element id="module-output" name="spark-auth-extension" />
+      <element id="extracted-dir" path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar" path-in-jar="/" />
+      <element id="library" level="module" name="sbt: unmanaged-sources-and-docs" module-name="spark-auth-extension" />
+    </root>
+  </artifact>
+</component>
